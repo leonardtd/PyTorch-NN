@@ -1,0 +1,100 @@
+embeddings {
+  tensor_name: "Embeddings:00000"
+  metadata_path: "00000/Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00000/Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00000/Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Embeddings:00001"
+  metadata_path: "00001/Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00001/Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00001/Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Embeddings:00002"
+  metadata_path: "00002/Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00002/Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00002/Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Embeddings:00003"
+  metadata_path: "00003/Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00003/Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00003/Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Embeddings:00004"
+  metadata_path: "00004/Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00004/Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00004/Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Embeddings:00005"
+  metadata_path: "00005/Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00005/Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00005/Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Embeddings:00006"
+  metadata_path: "00006/Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00006/Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00006/Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Embeddings:00007"
+  metadata_path: "00007/Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00007/Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00007/Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Embeddings:00008"
+  metadata_path: "00008/Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00008/Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00008/Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Embeddings:00009"
+  metadata_path: "00009/Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00009/Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00009/Embeddings\\tensors.tsv"
+}

@@ -1,0 +1,400 @@
+embeddings {
+  tensor_name: "GCN Embeddings:00000"
+  metadata_path: "00000/GCN Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00000/GCN Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00000/GCN Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Final Embeddings:00000"
+  metadata_path: "00000/Final Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00000/Final Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00000/Final Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "GCN Embeddings:00001"
+  metadata_path: "00001/GCN Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00001/GCN Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00001/GCN Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Final Embeddings:00001"
+  metadata_path: "00001/Final Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00001/Final Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00001/Final Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "GCN Embeddings:00002"
+  metadata_path: "00002/GCN Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00002/GCN Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00002/GCN Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Final Embeddings:00002"
+  metadata_path: "00002/Final Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00002/Final Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00002/Final Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "GCN Embeddings:00003"
+  metadata_path: "00003/GCN Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00003/GCN Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00003/GCN Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Final Embeddings:00003"
+  metadata_path: "00003/Final Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00003/Final Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00003/Final Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "GCN Embeddings:00004"
+  metadata_path: "00004/GCN Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00004/GCN Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00004/GCN Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Final Embeddings:00004"
+  metadata_path: "00004/Final Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00004/Final Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00004/Final Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "GCN Embeddings:00005"
+  metadata_path: "00005/GCN Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00005/GCN Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00005/GCN Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Final Embeddings:00005"
+  metadata_path: "00005/Final Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00005/Final Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00005/Final Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "GCN Embeddings:00006"
+  metadata_path: "00006/GCN Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00006/GCN Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00006/GCN Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Final Embeddings:00006"
+  metadata_path: "00006/Final Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00006/Final Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00006/Final Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "GCN Embeddings:00007"
+  metadata_path: "00007/GCN Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00007/GCN Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00007/GCN Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Final Embeddings:00007"
+  metadata_path: "00007/Final Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00007/Final Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00007/Final Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "GCN Embeddings:00008"
+  metadata_path: "00008/GCN Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00008/GCN Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00008/GCN Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Final Embeddings:00008"
+  metadata_path: "00008/Final Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00008/Final Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00008/Final Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "GCN Embeddings:00009"
+  metadata_path: "00009/GCN Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00009/GCN Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00009/GCN Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Final Embeddings:00009"
+  metadata_path: "00009/Final Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00009/Final Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00009/Final Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "GCN Embeddings:00010"
+  metadata_path: "00010/GCN Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00010/GCN Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00010/GCN Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Final Embeddings:00010"
+  metadata_path: "00010/Final Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00010/Final Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00010/Final Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "GCN Embeddings:00011"
+  metadata_path: "00011/GCN Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00011/GCN Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00011/GCN Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Final Embeddings:00011"
+  metadata_path: "00011/Final Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00011/Final Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00011/Final Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "GCN Embeddings:00012"
+  metadata_path: "00012/GCN Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00012/GCN Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00012/GCN Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Final Embeddings:00012"
+  metadata_path: "00012/Final Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00012/Final Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00012/Final Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "GCN Embeddings:00013"
+  metadata_path: "00013/GCN Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00013/GCN Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00013/GCN Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Final Embeddings:00013"
+  metadata_path: "00013/Final Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00013/Final Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00013/Final Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "GCN Embeddings:00014"
+  metadata_path: "00014/GCN Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00014/GCN Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00014/GCN Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Final Embeddings:00014"
+  metadata_path: "00014/Final Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00014/Final Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00014/Final Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "GCN Embeddings:00015"
+  metadata_path: "00015/GCN Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00015/GCN Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00015/GCN Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Final Embeddings:00015"
+  metadata_path: "00015/Final Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00015/Final Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00015/Final Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "GCN Embeddings:00016"
+  metadata_path: "00016/GCN Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00016/GCN Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00016/GCN Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Final Embeddings:00016"
+  metadata_path: "00016/Final Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00016/Final Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00016/Final Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "GCN Embeddings:00017"
+  metadata_path: "00017/GCN Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00017/GCN Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00017/GCN Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Final Embeddings:00017"
+  metadata_path: "00017/Final Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00017/Final Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00017/Final Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "GCN Embeddings:00018"
+  metadata_path: "00018/GCN Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00018/GCN Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00018/GCN Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Final Embeddings:00018"
+  metadata_path: "00018/Final Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00018/Final Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00018/Final Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "GCN Embeddings:00019"
+  metadata_path: "00019/GCN Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00019/GCN Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00019/GCN Embeddings\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Final Embeddings:00019"
+  metadata_path: "00019/Final Embeddings\\metadata.tsv"
+  sprite {
+    image_path: "00019/Final Embeddings\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+  tensor_path: "00019/Final Embeddings\\tensors.tsv"
+}

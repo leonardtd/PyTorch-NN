@@ -1,0 +1,4 @@
+Collecting tensorflow_text
+  Using cached tensorflow_text-2.6.0-cp38-cp38-manylinux1_x86_64.whl (4.4 MB)
+Collecting tensorflow<2.7,>=2.6.0
+  Using cached tensorflow-2.6.0-cp38-cp38-manylinux2010_x86_64.whl (458.4 MB)

@@ -4,11 +4,12 @@ import torch.nn.functional as F
 
 
 class CustomGCNLayer(nn.Module):
+
     """
         Custom GCN Layer.
         Paper: https://arxiv.org/abs/1609.02907
-
     """
+    
     def __init__(self, in_dims, out_dims):
         super().__init__()
         self.lin = nn.Linear(in_dims, out_dims, bias=False)

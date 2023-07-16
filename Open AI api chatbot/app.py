@@ -44,20 +44,30 @@ def chat():
             conversations[user_id] = conversation
 
         # Make the API call to generate a response
-        bot_response = utils.get_completion(user_query)
+        bot_response = utils.get_completion(user_query, conversation)
 
         # Append the user query, bot response, and timestamp to the conversation
         conversation.append({
-            'user_query': user_query,
-            'bot_response': bot_response,
-            'timestamp': str(datetime.datetime.now())
+            'role': 'user',
+            'content': user_query
         })
+
+        conversation.append({
+            'role': 'assistant',
+            'content': bot_response
+        })
+
+        # conversation.append({
+        #     'user_query': user_query,
+        #     'bot_response': bot_response,
+        #     'timestamp': str(datetime.datetime.now())
+        # })
 
     # Return the response as JSON
     return jsonify({
         'id': user_id,
         'response': bot_response,
-        'timestamp': conversation[-1]['timestamp']
+        'timestamp': str(datetime.datetime.now())
     })
 
 

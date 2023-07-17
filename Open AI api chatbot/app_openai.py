@@ -1,11 +1,11 @@
+import os
+from dotenv import load_dotenv, find_dotenv
 from flask import Flask, request, jsonify
 import datetime
-
-
+import openai
 from threading import Lock
 
-from langchain.memory import ConversationBufferMemory
-from src import agent
+from src import utils
 
 app = Flask(__name__)
 
@@ -21,10 +21,6 @@ def home():
 
 @app.route('/showConversations', methods=['GET'])
 def showConversations():
-    for k, v in conversations.items():
-        print(k)
-        print(v.buffer)
-        print('\n')
     return str(conversations)
 
 
@@ -42,14 +38,24 @@ def chat():
 
     with conversations_lock:
         if user_id in conversations:
-            memory = conversations[user_id]
+            conversation = conversations[user_id]
         else:
-            memory = ConversationBufferMemory(
-                memory_key="memory", return_messages=True)
-            conversations[user_id] = memory
+            conversation = []
+            conversations[user_id] = conversation
 
         # Make the API call to generate a response
-        bot_response = agent.get_response(user_query, memory)
+        bot_response = utils.get_completion(user_query, conversation)
+
+        # Append the user query, bot response, and timestamp to the conversation
+        conversation.append({
+            'role': 'user',
+            'content': user_query
+        })
+
+        conversation.append({
+            'role': 'assistant',
+            'content': bot_response
+        })
 
         # conversation.append({
         #     'user_query': user_query,
@@ -66,5 +72,8 @@ def chat():
 
 
 if __name__ == '__main__':
+    # Set up your OpenAI API key
+    load_dotenv(find_dotenv())  # read local .env file
+    openai.api_key = os.environ['OPENAI_API_KEY']
 
     app.run()
